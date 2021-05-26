@@ -1,0 +1,6 @@
+﻿  StaticYaryy.cpp
+C:\Users\eyary\source\repos\StaticYaryy\StaticYaryy\StaticYaryy.cpp(8,51): warning C4273: g_number: несовместимое связывание dll
+C:\Users\eyary\source\repos\StaticYaryy\StaticYaryy\Header.h(11,29): message : см. предыдущее определение "g_number"
+C:\Users\eyary\source\repos\StaticYaryy\StaticYaryy\StaticYaryy.cpp(9,59): warning C4273: s_name: несовместимое связывание dll
+C:\Users\eyary\source\repos\StaticYaryy\StaticYaryy\Header.h(12,30): message : см. предыдущее определение "s_name"
+  StaticYaryy.vcxproj -> C:\Users\eyary\source\repos\StaticYaryy\Debug\StaticYaryy.exe
